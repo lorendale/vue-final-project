@@ -4,8 +4,8 @@ To simulate logging in:
 
 #### 👤 Admin Access:
 - Username: `admin`
-- Password: `admin123`
+- Password: `admin`
 
 #### 👥 Regular User:
-- Username: `any other name`
-- Password: `anything`
+- Username: `user`
+- Password: `user`
